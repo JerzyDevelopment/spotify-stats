@@ -27,5 +27,21 @@
 }
 
 .vh-custom {
-  height: 75vh;
+  height: 50vh;
+}
+
+.track-image {
+  width: 25px;
+  height: 25px;
+}
+
+.spinner-border {
+  width: 4rem;
+  height: 4rem;
+}
+
+.loading-text {
+  width: 475px;
+  margin: 0 auto;
+  text-align: left;
 }

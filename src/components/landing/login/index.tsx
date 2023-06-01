@@ -6,7 +6,7 @@ const LoginComponent = () => {
       <p className="fs-3 loginText">Press Me 👇</p>
       <button
         type="button"
-        className="btn btn-success fw-bold py-3 mb-5 w-25"
+        className="btn btn-success fw-bold py-3 mb-5 w-50"
         onClick={() => getUserAuthorization()}
       >
         LOGIN
