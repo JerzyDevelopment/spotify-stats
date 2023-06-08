@@ -2,10 +2,10 @@ export interface topItemsi {
   artists:
     | [
         {
-          genres: string[];
           url: string;
-          image: string;
           name: string;
+          image: string;
+          genres: string[];
         }
       ]
     | [];

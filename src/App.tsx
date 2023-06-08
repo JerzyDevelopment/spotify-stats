@@ -34,7 +34,7 @@ function App() {
 
   return (
     <Provider store={store}>
-      <div className="App container-fluid bg-dark bg-gradient  vh-100 py-5 position-fixed">
+      <div className="App container-fluid bg-dark bg-gradient  vh-100 py-5">
         <div className="d-flex align-items-center flex-column text-center text-light h-100">
           {pageObj[page]}
         </div>
